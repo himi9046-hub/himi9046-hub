@@ -6,6 +6,7 @@ C# and .NET most of the time, plus C++, Python, Java and JavaScript.
 ## Projects
 
 - [leash](https://github.com/himi9046-hub/leash): see which apps on your PC talk to the internet, how much and where, and block any of them in one click. C#, WPF, ETW.
+- [sockscope](https://github.com/himi9046-hub/sockscope): live network traffic per process on Linux, counted in the kernel with eBPF. Go collector, JavaFX viewer.
 - [churnmap](https://github.com/himi9046-hub/churnmap): finds the files in a git repo that change too often and are too big. Node.js, no dependencies.
 
 ## Next up
