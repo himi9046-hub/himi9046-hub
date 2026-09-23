@@ -3,15 +3,20 @@
 I write small tools for Windows and Linux, mostly around networking.
 C# and .NET most of the time, plus Go, Java, C++, Python and JavaScript.
 
-![C#](https://img.shields.io/badge/C%23-121417?style=flat-square&logo=dotnet&logoColor=e8a33d)
-![.NET](https://img.shields.io/badge/.NET-121417?style=flat-square&logo=dotnet&logoColor=e8a33d)
-![Go](https://img.shields.io/badge/Go-121417?style=flat-square&logo=go&logoColor=6cb8a4)
-![Java](https://img.shields.io/badge/Java-121417?style=flat-square&logo=openjdk&logoColor=e8a33d)
-![C++](https://img.shields.io/badge/C++-121417?style=flat-square&logo=cplusplus&logoColor=6cb8a4)
-![Python](https://img.shields.io/badge/Python-121417?style=flat-square&logo=python&logoColor=e8a33d)
-![JavaScript](https://img.shields.io/badge/JavaScript-121417?style=flat-square&logo=javascript&logoColor=6cb8a4)
-![Linux](https://img.shields.io/badge/Linux-121417?style=flat-square&logo=linux&logoColor=e8a33d)
-![eBPF](https://img.shields.io/badge/eBPF-121417?style=flat-square&logo=ebpf&logoColor=6cb8a4)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=windows&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-3A75B0?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![eBPF](https://img.shields.io/badge/eBPF-E6522C?style=for-the-badge&logo=ebpf&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Projects
 
